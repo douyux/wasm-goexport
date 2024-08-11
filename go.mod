@@ -1,6 +1,6 @@
 module github.com/juliens/wasm-goexport
 
-go 1.22.3
+go 1.22
 
 require (
 	github.com/stealthrocket/net v0.2.1
